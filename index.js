@@ -11,10 +11,10 @@ const client = new Client({
 const TOKEN = process.env.TOKEN;
 
 // 📍 روم الشات
-const CHANNEL_ID = "1483219896069525665";
+const CHANNEL_ID = "1359279342542389378";
 
 // 🔊 روم الصوت
-const VOICE_CHANNEL_ID = "1483220557796479098";
+const VOICE_CHANNEL_ID = "1359226687216418856";
 
 // ✏️ الاختصارات
 const shortcuts = {
